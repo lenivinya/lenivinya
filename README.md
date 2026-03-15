@@ -1,16 +1,18 @@
-## Hi there 👋
+## ***Я снова слышу музыку...***
 
-<!--
-**lenivinya/lenivinya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+здесь будут some kind of мини-проекты или просто работы по ряду дисциплин.
+*не умна да и идеи сомнительные, но кто знает...*
 
-Here are some ideas to get you started:
+- студентка *РГПУ им. А. И. Герцена*, группа *2об_ИИТО/24*
+- *куратор* 1 курса ИИТО
+- Python, C++, HTML, CSS
+- **😴****😴****😴**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### *connect me?*
+- *[tg](https://t.me/lenivinya)*
+- *[vk](https://vk.ru/ariyanoto)*
+- *[discord](https://discordapp.com/users/1312197954542501992)*
+- *[ya.music](https://music.yandex.ru/playlists/lk.9ef8fe42-f29a-4573-8578-545d633798ce?utm_source=desktop&utm_medium=copy_link)*
+
+#
+<h1 align="center"><img src="musya.jpg" height="250"/></h1>
