@@ -13,6 +13,7 @@
 - *[vk](https://vk.ru/ariyanoto)*
 - *[discord](https://discordapp.com/users/1312197954542501992)*
 - *[ya.music](https://music.yandex.ru/playlists/lk.9ef8fe42-f29a-4573-8578-545d633798ce?utm_source=desktop&utm_medium=copy_link)*
+- *[gitverse](https://gitverse.ru/lenivinya)*
 
 #
 <h1 align="center"><img src="musya.jpg" height="250"/></h1>
